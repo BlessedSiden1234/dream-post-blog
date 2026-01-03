@@ -37,7 +37,7 @@ A simple blog dashboard application built with **Node.js**, **Express**, **Seque
 ## Step 1: Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/BlessedSiden1234/dream-post-blog.git
 cd handlebars
 ```
 
